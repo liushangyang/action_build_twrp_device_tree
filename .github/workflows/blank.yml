@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'IMG_URL'
         required: true
-        default: 'https://github.com/Xpsoted/Action-Recovery-builder/releases/download/1404192362/recovery.img'
+        default: 'https://i81.lanzoug.com/072909bb/2022/07/29/a993313096a924665caa83635300da96.img?st=kQ3XLcYbAdCtNuR15IwQgA&e=1659058874&b=VnZdOFIxB21TcAU2BiQDfgB7CTwCbgNi&fi=76628268&pid=178-249-213-215&up=2&mp=0&co=1'
 
 jobs:
   build:
